@@ -11,3 +11,5 @@ const myBooks = ["The Catcher in the Rye",
     "The Da Vinci Code",
     "The Hunger Games"]
 
+console.warn('Jeg er en advarsel!')
+console.error('Jeg er en fejl!!!')
